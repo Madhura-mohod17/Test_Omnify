@@ -7,7 +7,6 @@ A FastAPI-based backend system for managing events, attendee registration, and l
    
 git clone https://github.com/Madhura-mohod17/Test_Omnify.git
 
-cd <repo-name>
 
 2. Install dependencies
 pip install -r requirements.txt
