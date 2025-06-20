@@ -5,7 +5,7 @@ A FastAPI-based backend system for managing events, attendee registration, and l
 ## Setup Instructions
 1. Clone the repository:
    
-git clone https://github.com/<your-username>/<repo-name>
+git clone https://github.com/Madhura-mohod17/Test_Omnify.git
 
 cd <repo-name>
 
