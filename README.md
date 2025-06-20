@@ -17,3 +17,8 @@ pip install -r requirements.txt
 uvicorn main:app --reload
 
 Visit Swagger UI:  http://localhost:8000/docs
+
+
+Loom Video Link :  
+
+https://www.loom.com/share/0c416c50a7744e19805f2f9cb90f2af5?sid=260b0011-ac23-4856-9ae1-7c482eca97ef
