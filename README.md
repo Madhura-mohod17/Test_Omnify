@@ -9,9 +9,11 @@ git clone https://github.com/Madhura-mohod17/Test_Omnify.git
 
 
 2. Install dependencies
+   
 pip install -r requirements.txt
 
 3. Run the app
+
 uvicorn main:app --reload
 
 Visit Swagger UI:  http://localhost:8000/docs
